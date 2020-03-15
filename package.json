@@ -4,5 +4,8 @@
   "main": "src/index",
   "repository": "git@github.com:malun666/datelib.git",
   "author": "Lun Ma <lun.ma@shopee.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
