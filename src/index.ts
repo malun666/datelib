@@ -1,3 +1,3 @@
 export function getNow(): number {
-  return Date.now();
+  return Date.now() + 333;
 }
